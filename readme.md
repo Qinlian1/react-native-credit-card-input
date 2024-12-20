@@ -10,4 +10,4 @@
 
 ## 请悉知 / Acknowledgements
 
-本项目基于 [The MIT License (MIT)](https://github.com/sbycrosz/react-native-credit-card-input/blob/master/LICENSE) ，请自由地享受和参与开源。
+本项目基于 [The MIT License (MIT)](https://github.com/sbycrosz/react-native-credit-card-input/blob/master/LICENSE)，请自由地享受和参与开源。
